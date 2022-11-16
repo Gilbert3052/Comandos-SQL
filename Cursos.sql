@@ -163,7 +163,7 @@ insert into courses (
 	'Aprenderas todo sobre NodeJs, hasta convertirte en un experto sobre el tema',
 	3,
 	'Angie'
-)	
+);
 
 
 -- Creando Categorias --
